@@ -6,10 +6,11 @@ layout: default
 
 ## Summary
 
-    _Pet lost and found_ is an application that will connect you with the community to help bring back yours or others pet back home safe and sound.
+   _Pet lost and found_ is an application that will connect you with the community to help bring back yours or others pet back home safe and sound.
+
 ## Intended users
 
-    * For users who love helping the community by helping fiend their lost pet.
+  * For users who love helping the community by helping fiend their lost pet.
 
   > As a someone who lives in a neighborhood that haves a lot of animas wondering around, this app has help me find the pets owner. Being able to see their owner happy makes me happy, its great helping the community.
 
