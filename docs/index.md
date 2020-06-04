@@ -42,13 +42,13 @@ layout: default
 
 * **Functionality**
 
-        * Will provide methods for searching reports on the animal type and the address.
+    * Will provide methods for searching reports on the animal type and the address.
 
-        * Will store all reports that have been posted
+    * Will store all reports that have been posted
 
-        *  Provide the location and date
+    *  Provide the location and date
 
-        * Provide additional methods modifying deleting and attaching photos for the reports.    
+    * Provide additional methods modifying deleting and attaching photos for the reports.    
 
 * **Persistent data**
 
@@ -63,4 +63,4 @@ layout: default
 
 ## Stretch goals/possible enhancements
 
-    * research RFID
+   * research RFID
